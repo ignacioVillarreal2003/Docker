@@ -1,3 +1,3 @@
 # Docker
 
-> docker network create media_net
+> docker network create api_net
